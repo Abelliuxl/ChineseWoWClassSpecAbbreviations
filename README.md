@@ -1,4 +1,4 @@
-#Chinese Class and Specialization Abbreviations
+# Chinese Class and Specialization Abbreviations
 
 This Markdown file provides a list of abbreviations commonly used to refer to different classes and specializations in a game. These abbreviations are often used by players to communicate more efficiently. Here is the list:
 
